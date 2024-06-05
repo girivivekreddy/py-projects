@@ -46,5 +46,7 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 Feel free to reach out if you have any questions or suggestions. You can contact me at:
 
 Email: girivivekreddy@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/vivek-reddy-giri-037875278/
+
 Thank you for visiting my repository!
