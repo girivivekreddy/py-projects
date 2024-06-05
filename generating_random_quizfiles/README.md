@@ -44,19 +44,36 @@ This project involves:
 ## file-structure
 
 generating_random_quizfiles/
+
 │
+
 ├── outfiles/
+
 |   ├── agenda.txt
+
 │   ├── apaper1.txt
+
 │   ├── apaper2.txt
+
 │   ├── ...
+
 │   ├── apaper35.txt
+
 │   ├── qpaper1.txt
+
 │   ├── qpaper2.txt
+
 │   ├── ...
+
 │   └── qpaper35.txt
+
 │
+
 ├── aim.txt
+
 ├── code.ipynb
+
 ├── solution_thought_process.docx
+
 └── README.md
+
